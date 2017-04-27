@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JiveTest</string>
+    <string name="getting_photos">Getting photos...</string>
+    <string name="getting_recent_photos">Getting recent photos...</string>
+    <string name="search_photos">Search photos</string>
+    <string name="getting_username">Getting username...</string>
+    <string name="getting_photo_comments">Getting photo comments...</string>
+    <string name="no_comments">No comments</string>
+    <string name="search_photos_from_serach_option">Search photos from search option</string>
+</resources>
